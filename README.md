@@ -9,7 +9,7 @@ Este repositorio incluye ejemplos resueltos de los diferentes módulos didáctic
 
 Los módulos didácticos son:
 - [Módulo 1. Introducción al aprendizaje por refuerzo](./M01/)
-- Módulo 2. Introducción a OpenAI Gym
+- [Módulo 2. Introducción a OpenAI Gymnasium](./M02/) 
 - Módulo 3. Procesos de decisión de Markov
 - Módulo 4. Programación dinámica
 - [Módulo 5. Métodos de Montecarlo](./M05/)
