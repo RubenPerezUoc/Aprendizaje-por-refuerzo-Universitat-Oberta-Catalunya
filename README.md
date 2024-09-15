@@ -9,7 +9,7 @@ Este repositorio incluye ejemplos resueltos de los diferentes módulos didáctic
 
 Los módulos didácticos son:
 - [Módulo 1. Introducción al aprendizaje por refuerzo](./M01/)
-- [Módulo 2. Introducción a OpenAI Gymnasium](./M02/) 
+- Módulo 2. Introducción a OpenAI Gymnasium 
 - Módulo 3. Procesos de decisión de Markov
 - Módulo 4. Programación dinámica
 - [Módulo 5. Métodos de Montecarlo](./M05/)
@@ -19,6 +19,7 @@ Los módulos didácticos son:
 - [Módulo 9: Deep Q-Networks](./M09/)
 - [Módulo 10: Gradientes de Política](./M10/)
 - Módulo 11. El método actor-crítico
+- [Extra. Creación de un entorno personalizado y evaluación de un agente.](./EXTRA/) 
 
 Dentro de cada carpeta de este respositorio se pueden encontrar uno o más ejemplos relacionados con el módulo. El idioma de los ejemplos se indica mediante una sufijo en cada notebook, indicando si se trata de ejemplos en catalán, castellano o inglés según la siguiente nomenclatura:
 - _[ca]_: Notebooks de ejemplo en catalán
